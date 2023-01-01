@@ -1,12 +1,8 @@
 ||advdomlab.com^
-@@||advdomlab.com^$document
 0.0.0.0 advdomlab.com
-||iad-*.braze.com^
 
 ||googleadservices.com^
-@@||googleadservices.com^$document
 0.0.0.0 googleadservices.com
 
 ||www.googleadservices.com^
-@@||www.googleadservices.com^$document
 0.0.0.0 www.googleadservices.com
