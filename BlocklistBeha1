@@ -1,3 +1,7 @@
 ||advdomlab.com^
 @@||advdomlab.com^$document
 0.0.0.0 advdomlab.com
+
+||googleadservices.com^
+@@||googleadservices.com^$document
+0.0.0.0 googleadservices.com
