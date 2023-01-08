@@ -6,3 +6,6 @@
 
 ||www.googleadservices.com^$important
 0.0.0.0 www.googleadservices.com
+
+||adservice.google.com^$important
+0.0.0.0 adservice.google.com^
