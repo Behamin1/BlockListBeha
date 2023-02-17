@@ -1,4 +1,4 @@
-||advdomlab.com^
+||advdomlab.com^$important
 0.0.0.0 advdomlab.com
 
 ||googleadservices.com^$important
@@ -10,8 +10,16 @@
 ||adservice.google.com^$important
 0.0.0.0 adservice.google.com^
 
-||winmix.live^
+||winmix.live^$important
 0.0.0.0 winmix.live^
 
 ||webhook.logentries.com^$important
 0.0.0.0 webhook.logentries.com
+
+||firebaseinstallations.googleapis.com
+0.0.0.0 firebaseinstallations.googleapis.com
+
+||mtalk.google.com^$important
+0.0.0.0 mtalk.google.com
+
+
