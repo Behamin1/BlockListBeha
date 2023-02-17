@@ -16,7 +16,7 @@
 ||webhook.logentries.com^$important
 0.0.0.0 webhook.logentries.com
 
-||firebaseinstallations.googleapis.com
+||firebaseinstallations.googleapis.com^$important
 0.0.0.0 firebaseinstallations.googleapis.com
 
 ||mtalk.google.com^$important
