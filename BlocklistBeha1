@@ -9,6 +9,7 @@
 0.0.0.0 adservice.google.com^
 ||mtalk.google.com^$important
 0.0.0.0 mtalk.google.com
+||adservice.google.dk^$important
 
 ||winmix.live^$important
 0.0.0.0 winmix.live^
@@ -23,10 +24,6 @@
 ||its.nja.dk^$important
 ||nja.dk^$important
 
-#||applytics.nordvpn.com^$important
-#||debug.nordvpn.com^$important
-#||api.nordvpn.com^$important
-
 ||https://yandex.ru^
 ||http://yandex.ru^
 ||yandex.ru^
@@ -38,4 +35,4 @@
 
 @@||click.allkeyshop.com^$important
 
-||adservice.google.dk^$important
+@@||fdm.dk^$important
