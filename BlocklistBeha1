@@ -41,9 +41,9 @@
 
 @@||wl.spotify.com^$client=192.168.4.100
 
-||global.quickconnect.to^$important
-||checkip.synology.com^$important
-||checkipv6.synology.com^$important
+#||global.quickconnect.to^$important
+#||checkip.synology.com^$important
+#||checkipv6.synology.com^$important
 
 @@||adfoc.us^$client='192.168.4.100'
 @@||click.discord.com^$important
