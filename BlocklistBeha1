@@ -17,9 +17,6 @@
 ||webhook.logentries.com^$important
 0.0.0.0 webhook.logentries.com
 
-||firebaseinstallations.googleapis.com^$important
-0.0.0.0 firebaseinstallations.googleapis.com
-
 ||aas.its.nja.dk^$important
 ||its.nja.dk^$important
 ||nja.dk^$important
