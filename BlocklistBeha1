@@ -56,3 +56,7 @@
 @@||web.facebook.com^$important
 @@||graph.facebook.com^$important
 
+||checkonline.home-assistant.io^$important
+||.^$client='Homeassistant'
+
+
